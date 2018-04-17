@@ -1,0 +1,24 @@
+{
+  "name": "mean-a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tagonice/mean-a2.git"
+  },
+  "author": "Timmy Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tagonice/mean-a2/issues"
+  },
+  "homepage": "https://github.com/Tagonice/mean-a2#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
